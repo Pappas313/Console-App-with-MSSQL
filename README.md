@@ -1,2 +1,2 @@
-# Console-App-with-MS-SQL-
+# Console-App-with-MS-SQL
 Simple Console App with MS SQL 
